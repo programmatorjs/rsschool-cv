@@ -1,9 +1,18 @@
-_**Nikolai** Andrianov_
+# _**Nikolai** Andrianov_
 
 **Contacts**
 * Location, Sain-Petersburg
-* +7 (952) 095-86-85 
-* nikolai.andrianov.js@gmail.com
-* Link to [GitHub](https://github.com/programmatorjs)
+* Phone: +7 (952) 095-86-85 
+* Email: nikolai.andrianov.js@gmail.com
+* Link to GitHub: [@programmatorjs](https://github.com/programmatorjs)
 
-# ABOUT ME
+## ABOUT ME
+
+------------
+## Skills
+
+------------
+## Code Example
+## Experience
+## Education
+## English

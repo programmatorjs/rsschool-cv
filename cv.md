@@ -1,6 +1,6 @@
-# _**Nikolai** Andrianov_
+# _Nikolai Andrianov_
 
-**Contacts**
+## Contacts
 * Location, Sain-Petersburg
 * Phone: +7 (952) 095-86-85 
 * Email: nikolai.andrianov.js@gmail.com
@@ -10,8 +10,9 @@
 
 ------------
 ## Skills
-
-------------
+* JavaScript
+* HTML/CSS
+* GIT
 ## Code Example
 ## Experience
 ## Education

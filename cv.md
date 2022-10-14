@@ -20,14 +20,14 @@ const recursion = n => {
   return n ? n * recursion(n - 1) : 1
 };
 
-console.log(recursion(5))
+console.log(recursion(5));
 
 ```
 
 ## Experience
 ## Education
 * Online course from "rs.school"
-    - "JavaScript/Front-end"
-* __University:__ Novgorod State University. Y. the Wise, Veliky Novgorod
-    - Faculty of Mechanical Engineering Technology
+    - *** "JavaScript/Front-end" ***
+* __University:__  Novgorod State University. Y. the Wise, Veliky Novgorod 
+    - *** Faculty of Mechanical Engineering Technology ***
 ## English

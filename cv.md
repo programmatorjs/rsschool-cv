@@ -27,7 +27,7 @@ console.log(recursion(5));
 ## Experience
 ## Education
 * Online course from "rs.school"
-    - *** "JavaScript/Front-end" ***
+    - ***"JavaScript/Front-end"***
 * __University:__  Novgorod State University. Y. the Wise, Veliky Novgorod 
-    - *** Faculty of Mechanical Engineering Technology ***
+    - ***Faculty of Mechanical Engineering Technology***
 ## English

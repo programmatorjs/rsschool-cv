@@ -4,6 +4,7 @@
 * Location, Sain-Petersburg
 * Phone: +7 (952) 095-86-85 
 * Email: nikolai.andrianov.js@gmail.com
+* telegram: [@NikolaiAndrianov](http://t.me/NikolaiAndrianov)
 * Link to GitHub: [@programmatorjs](https://github.com/programmatorjs)
 
 ## ABOUT ME
@@ -32,4 +33,4 @@ console.log(recursion(5));
 * __University:__  Novgorod State University. Y. the Wise, Veliky Novgorod 
     - ***Faculty of Mechanical Engineering Technology***
 ## English
- - A1
+ - ***A1*** next target ***B1***

@@ -4,7 +4,7 @@
 * Location, Sain-Petersburg
 * Phone: +7 (952) 095-86-85 
 * Email: nikolai.andrianov.js@gmail.com
-* telegram: [@NikolaiAndrianov](http://t.me/NikolaiAndrianov)
+* Telegram: [@NikolaiAndrianov](http://t.me/NikolaiAndrianov)
 * Link to GitHub: [@programmatorjs](https://github.com/programmatorjs)
 
 ## ABOUT ME

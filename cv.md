@@ -8,6 +8,7 @@
 * Link to GitHub: [@programmatorjs](https://github.com/programmatorjs)
 
 ## ABOUT ME
+Calm and patient
 
 ------------
 ## Skills
